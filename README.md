@@ -128,6 +128,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from FD U
   </ul>
 </details>
 
-<div align="center">
 ### Show some ❤️ by starring some of the repositories!
-</div>
+
+<!-- EOF -->
