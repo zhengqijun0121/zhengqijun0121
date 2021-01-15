@@ -2,7 +2,7 @@
 
 ----
 
-## Hey 👋, I'm [Zhengqijun](https://github.com/zhengqijun0121/)!
+## Hey 👋, I'm [Zhengqijun](https://github.com/zhengqijun0121/)! &nbsp; ![](https://cdn.jsdelivr.net/gh/zhengqijun0121/cdn@main/images/cat.gif)
 
 [![Github](https://img.shields.io/badge/-Github-0e76a8?style=flat-square&logo=Github&logoColor=white)](https://github.com/zhengqijun0121)
 [![Website Badge](https://img.shields.io/badge/-Blog-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://zhengqijun0121.github.io/)
@@ -19,7 +19,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from FD U
 
 [![](https://gitwar.herokuapp.com/badge?username=zhengqijun0121&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://cdn.jsdelivr.net/gh/zhengqijun0121/cdn@main/images/coding.gif" />
+<img align="right" height="250" width="375" alt="" src="https://cdn.jsdelivr.net/gh/zhengqijun0121/cdn@main/images/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
@@ -128,6 +128,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from FD U
   </ul>
 </details>
 
-### Show some ❤️ by starring some of the repositories!
+### What does not kill you makes you stronger! ❤️
 
 <!-- EOF -->
