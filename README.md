@@ -2,7 +2,7 @@
 
 ----
 
-## Hey 👋, I'm [Zhengqijun](https://github.com/zhengqijun0121/)! &nbsp; ![](https://cdn.jsdelivr.net/gh/zhengqijun0121/cdn@main/images/cat.gif)
+## Hey 👋, I'm [Zhengqijun](https://github.com/zhengqijun0121/)! &nbsp; <img src="https://cdn.jsdelivr.net/gh/zhengqijun0121/cdn@main/images/cat.gif" width="29px">
 
 [![Github](https://img.shields.io/badge/-Github-0e76a8?style=flat-square&logo=Github&logoColor=white)](https://github.com/zhengqijun0121)
 [![Website Badge](https://img.shields.io/badge/-Blog-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://zhengqijun0121.github.io/)
@@ -124,7 +124,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from FD U
     <li><b>Browser: </b> Chrome Developer Edition</li>
     <li><b>Terminal: </b> Bash: Oh-My-Bash</li>
     <li><b>Code Editor:</b> Vim - The best editor out there.</li>
-    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
   </ul>
 </details>
 
